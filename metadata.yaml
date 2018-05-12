@@ -1,0 +1,32 @@
+_repo: M-thode-d--quitation-bas-e-sur-de-nouveaux-principes_39410
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39410-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baucher, François
+    aliases:
+    - Baucher, F. (François)
+    - Baucher, Francois
+    birthdate: 1796
+    deathdate: 1873
+    gutenberg_agent_id: '40008'
+    url: http://www.gutenberg.org/2009/agents/40008
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Baucher
+description: ''
+gutenberg_bookshelf: FR Sports et loisirs
+gutenberg_issued: '2012-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39410'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horsemanship'
+- !lcsh 'Dressage'
+- !lcc 'SF'
+title: Méthode d'équitation basée sur de nouveaux principes
+url: http://www.gutenberg.org/ebooks/39410
