@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40008
     wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Baucher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39410#M-thode-d--quitation-bas-e-sur-de-nouveaux-principes
 gutenberg_bookshelf: FR Sports et loisirs
 gutenberg_issued: '2012-04-09'
 gutenberg_type: Text
